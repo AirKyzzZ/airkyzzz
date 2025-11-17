@@ -1,4 +1,4 @@
-# Maxime Mansiet — Full-Stack Developer @ Verana  
+# Maxime Mansiet — Full-Stack Developer
 **Next.js • TypeScript • Python • Web Infra**
 
 📍 Bordeaux, France — 19 ans  
