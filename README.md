@@ -32,7 +32,7 @@ J’y conçois, développe et opère plusieurs briques du **Verana Verifiable Tr
 
 ### Stack que j’utilise au quotidien :
 - **Frontend** : Next.js, React, TypeScript, Tailwind  
-- **Backend** : Node.js, APIs, workers, Docker  
+- **Backend** : Node.js, APIs, Docker  
 - **Infra** : Kubernetes, Helm, CI/CD GitHub Actions  
 - **Qualité** : tests, performance, sécurité, monitoring, accessibilité
 
