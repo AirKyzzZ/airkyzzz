@@ -43,7 +43,14 @@ J’y conçois, développe et opère plusieurs briques du **Verana Verifiable Tr
 * 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Outil de prospection pour l'écosystème bordelais
 * 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Interactions Twitter automatisées
 * 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - Automatisation de contenu par IA
+* 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - Projet d'intelligence artificielle
 * 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Exploration des légendes musicales
+* 🎧 [deezer-pilot](https://github.com/AirKyzzZ/deezer-pilot) - Outil d'automatisation Deezer
+* 🎮 [epsiwordle](https://github.com/AirKyzzZ/epsiwordle) - Jeu Wordle version EPSI
+* 📝 [blog-klyx](https://github.com/AirKyzzZ/blog-klyx) - Blog technique Klyx
+* 🌙 [noctis](https://github.com/AirKyzzZ/noctis) - Application mobile de nuit
+* 🥗 [EasyMeal](https://github.com/AirKyzzZ/EasyMeal) - Planificateur de repas simple
+* 🧠 [KlyxAI](https://github.com/AirKyzzZ/KlyxAI) - Solutions IA pour Klyx
 * 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Site du Parkour Bassin d'Arcachon
 * 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Marque de mouvement urbain
 * 📂 [Portfolio](https://github.com/AirKyzzZ/portfolio) - Site vitrine personnel
