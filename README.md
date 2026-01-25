@@ -45,7 +45,6 @@ J’y conçois, développe et opère plusieurs briques du **Verana Verifiable Tr
 * 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - Automatisation de contenu par IA
 * 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - Projet d'intelligence artificielle
 * 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Exploration des légendes musicales
-* 🎧 [deezer-pilot](https://github.com/AirKyzzZ/deezer-pilot) - Outil d'automatisation Deezer
 * 🎮 [epsiwordle](https://github.com/AirKyzzZ/epsiwordle) - Jeu Wordle version EPSI
 * 📝 [blog-klyx](https://github.com/AirKyzzZ/blog-klyx) - Blog technique Klyx
 * 🌙 [noctis](https://github.com/AirKyzzZ/noctis) - Application mobile de nuit
