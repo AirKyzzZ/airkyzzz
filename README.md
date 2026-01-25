@@ -43,11 +43,7 @@ J’y conçois, développe et opère plusieurs briques du **Verana Verifiable Tr
 * 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Outil de prospection pour l'écosystème bordelais
 * 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Interactions Twitter automatisées
 * 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - Automatisation de contenu par IA
-* 🔍 [Verana Indexer](https://github.com/AirKyzzZ/verana-indexer) - Service d'indexation de données blockchain
-* 🌐 [Verana Frontend](https://github.com/AirKyzzZ/verana-frontend) - Interface utilisateur du réseau de confiance
 * 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Exploration des légendes musicales
-* 🤖 [Hologram Hygen](https://github.com/AirKyzzZ/hologram-hygen-assistant) - Assistant de génération de code
-* 🕸️ [Hologram Website](https://github.com/AirKyzzZ/hologram.zone-website) - Landing page pour Hologram zone
 * 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Site du Parkour Bassin d'Arcachon
 * 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Marque de mouvement urbain
 * 📂 [Portfolio](https://github.com/AirKyzzZ/portfolio) - Site vitrine personnel
