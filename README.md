@@ -40,9 +40,7 @@ J’y conçois, développe et opère plusieurs briques du **Verana Verifiable Tr
 
 ## 🚀 Projets en cours
 
-* 🎨 [motion-design](https://github.com/AirKyzzZ/motion-design) - Expérimentations créatives en motion design
 * 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Outil de prospection pour l'écosystème bordelais
-* 🟩 [make-account-green](https://github.com/AirKyzzZ/make-account-green) - Gestion de comptes durable
 * 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Interactions Twitter automatisées
 * 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - Automatisation de contenu par IA
 * 🔍 [Verana Indexer](https://github.com/AirKyzzZ/verana-indexer) - Service d'indexation de données blockchain
@@ -51,8 +49,6 @@ J’y conçois, développe et opère plusieurs briques du **Verana Verifiable Tr
 * 🤖 [Hologram Hygen](https://github.com/AirKyzzZ/hologram-hygen-assistant) - Assistant de génération de code
 * 🕸️ [Hologram Website](https://github.com/AirKyzzZ/hologram.zone-website) - Landing page pour Hologram zone
 * 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Site du Parkour Bassin d'Arcachon
-* 📖 [livre](https://github.com/AirKyzzZ/livre) - Projet d'écriture de livre personnel
-* 📝 [Content Creator Agent](https://github.com/AirKyzzZ/content-creator-agent) - Outil de génération de contenu IA
 * 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Marque de mouvement urbain
 * 📂 [Portfolio](https://github.com/AirKyzzZ/portfolio) - Site vitrine personnel
 
