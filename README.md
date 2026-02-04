@@ -36,21 +36,33 @@ I design, develop, and operate key components of the **Verana Verifiable Trust N
 
 ---
 
-## 🚀 Current Projects
+## Projects
 
-* 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Prospecting tool for the Bordeaux tech ecosystem
-* 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Automated Twitter engagement
-* 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - AI-powered content automation
-* 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - AI project
-* 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Music legends exploration
-* 🎮 [epsiwordle](https://github.com/AirKyzzZ/epsiwordle) - Wordle game (EPSI edition)
-* 📝 [blog-klyx](https://github.com/AirKyzzZ/blog-klyx) - Klyx tech blog
-* 🌙 [noctis](https://github.com/AirKyzzZ/noctis) - Night mode mobile app
-* 🥗 [EasyMeal](https://github.com/AirKyzzZ/EasyMeal) - Simple meal planner
-* 🧠 [KlyxAI](https://github.com/AirKyzzZ/KlyxAI) - AI solutions for Klyx
-* 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Parkour Bassin d'Arcachon website
-* 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Urban movement brand
-* 📂 [Portfolio](https://github.com/AirKyzzZ/portfolio) - Personal showcase
+- 💼 [Klyx](https://klyx.fr/) - Web agency building modern web solutions
+- 🤖 [ClawFans](https://github.com/AirKyzzZ/clawfans) - OnlyFans for AI agents — The first subscription platform built for autonomous AI
+- 🛡️ Shellsafe - *Coming soon* — Security-focused project
+- 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Urban movement brand for parkour enthusiasts
+- 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Website for Parkour Bassin d'Arcachon — One of the biggest parkour clubs in Nouvelle-Aquitaine
+- 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Automated Twitter engagement
+- 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - AI-powered content automation with Todoist approval workflow
+- 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Outreach tool for the French Tech Bordeaux ecosystem
+- 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - AI project
+- 🧠 [KlyxAI](https://github.com/AirKyzzZ/KlyxAI) - AI solutions for Klyx
+- 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Music legends exploration
+- 🎮 [epsiwordle](https://github.com/AirKyzzZ/epsiwordle) - Wordle game (EPSI edition)
+- 📝 [blog-klyx](https://github.com/AirKyzzZ/blog-klyx) - Klyx tech blog
+- 🌙 [noctis](https://github.com/AirKyzzZ/noctis) - Night mode mobile app
+- 🥗 [EasyMeal](https://github.com/AirKyzzZ/EasyMeal) - Simple meal planner
+- 📂 [Portfolio](https://github.com/AirKyzzZ/portfolio) - Personal showcase
+- 🌐 [airkyzzz.github.io](https://github.com/AirKyzzZ/airkyzzz.github.io) - Personal website
+- 🎵 [maexis](https://github.com/AirKyzzZ/maexis) - Music project
+- 🎮 [kayou](https://github.com/AirKyzzZ/kayou) - Gaming project
+- 📺 [airkyzzzstreamstatus](https://github.com/AirKyzzZ/airkyzzzstreamstatus) - Stream status tracker
+- 🎭 [TAPAGECULTUREL](https://github.com/AirKyzzZ/TAPAGECULTUREL) - Cultural project
+- 🦠 [thecoronawebsite](https://github.com/AirKyzzZ/thecoronawebsite) - My first website (Version 1.0)
+- 🏖️ [lepavillondarcachon](https://github.com/AirKyzzZ/lepavillondarcachon) - My first "professional" website (template-based)
+- 🔒 [projet-cyber-lab-XSS](https://github.com/AirKyzzZ/projet-cyber-lab-XSS) - Cybersecurity lab project
+- 📚 [EPSI_2024](https://github.com/AirKyzzZ/EPSI_2024) - EPSI coursework
 
 ---
 
