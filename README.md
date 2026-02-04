@@ -40,28 +40,28 @@ I design, develop, and operate key components of the **Verana Verifiable Trust N
 
 - 💼 [Klyx](https://klyx.fr/) - Web agency building modern web solutions
 - 🤖 [ClawFans](https://github.com/AirKyzzZ/clawfans) - OnlyFans for AI agents — The first subscription platform built for autonomous AI
-- 🛡️ Shellsafe - *Coming soon* — Security-focused project
+- 🛡️ Shellsafe - *Coming soon* — Security-focused skills sharing
 - 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Urban movement brand for parkour enthusiasts
-- 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Website for Parkour Bassin d'Arcachon — One of the biggest parkour clubs in Nouvelle-Aquitaine
+- 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Parkour Bassin d'Arcachon — One of the biggest parkour clubs in France
 - 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Automated Twitter engagement
 - 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - AI-powered content automation with Todoist approval workflow
 - 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Outreach tool for the French Tech Bordeaux ecosystem
-- 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - AI project
-- 🧠 [KlyxAI](https://github.com/AirKyzzZ/KlyxAI) - AI solutions for Klyx
-- 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Music legends exploration
-- 🎮 [epsiwordle](https://github.com/AirKyzzZ/epsiwordle) - Wordle game (EPSI edition)
+- 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - Python ML project thats notes faced out of 10
+- 🧠 [KlyxAI](https://github.com/AirKyzzZ/KlyxAI) - AI solutions for Klyx agency
+- 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Trading card game for deezer profiles
+- 🎮 [epsiwordle](https://github.com/AirKyzzZ/epsiwordle) - Wordle game (EPSI school edition)
 - 📝 [blog-klyx](https://github.com/AirKyzzZ/blog-klyx) - Klyx tech blog
-- 🌙 [noctis](https://github.com/AirKyzzZ/noctis) - Night mode mobile app
+- 🌙 [noctis](https://github.com/AirKyzzZ/noctis) - Sleep tracking mobile app
 - 🥗 [EasyMeal](https://github.com/AirKyzzZ/EasyMeal) - Simple meal planner
-- 📂 [Portfolio](https://github.com/AirKyzzZ/portfolio) - Personal showcase
-- 🌐 [airkyzzz.github.io](https://github.com/AirKyzzZ/airkyzzz.github.io) - Personal website
-- 🎵 [maexis](https://github.com/AirKyzzZ/maexis) - Music project
-- 🎮 [kayou](https://github.com/AirKyzzZ/kayou) - Gaming project
-- 📺 [airkyzzzstreamstatus](https://github.com/AirKyzzZ/airkyzzzstreamstatus) - Stream status tracker
-- 🎭 [TAPAGECULTUREL](https://github.com/AirKyzzZ/TAPAGECULTUREL) - Cultural project
-- 🦠 [thecoronawebsite](https://github.com/AirKyzzZ/thecoronawebsite) - My first website (Version 1.0)
-- 🏖️ [lepavillondarcachon](https://github.com/AirKyzzZ/lepavillondarcachon) - My first "professional" website (template-based)
-- 🔒 [projet-cyber-lab-XSS](https://github.com/AirKyzzZ/projet-cyber-lab-XSS) - Cybersecurity lab project
+- 📂 [Portfolio](https://github.com/AirKyzzZ/portfolio) - Personal showcase - Portfolio
+- 🌐 [airkyzzz.github.io](https://github.com/AirKyzzZ/airkyzzz.github.io) - Old personal website
+- 🎵 [maexis](https://github.com/AirKyzzZ/maexis) - Tools suite project
+- 🎮 [kayou](https://github.com/AirKyzzZ/kayou) - Unity game clicker project
+- 📺 [airkyzzzstreamstatus](https://github.com/AirKyzzZ/airkyzzzstreamstatus) - Stream status tracker for OBS
+- 🎭 [TAPAGECULTUREL](https://github.com/AirKyzzZ/TAPAGECULTUREL) - Cultural project website for a famous DJ
+- 🦠 [thecoronawebsite](https://github.com/AirKyzzZ/thecoronawebsite) - My first website back in 2020
+- 🏖️ [lepavillondarcachon](https://github.com/AirKyzzZ/lepavillondarcachon) - My first "professional" website
+- 🔒 [projet-cyber-lab-XSS](https://github.com/AirKyzzZ/projet-cyber-lab-XSS) - Cybersecurity lab project / hackthon
 - 📚 [EPSI_2024](https://github.com/AirKyzzZ/EPSI_2024) - EPSI coursework
 
 ---
