@@ -1,4 +1,4 @@
-# Maxime Mansiet — Full-Stack Developer
+# Maxime — Full-Stack Developer
 **Next.js • TypeScript • Python • Web Infra**
 
 📍 Bordeaux, France — 19 y/o  
@@ -24,7 +24,7 @@ Creators will shape the future. I'm working every day to be one of them.
 
 ---
 
-## 👨‍💻 Full-Stack Developer @ Verana
+## 👨‍💻 Full-Stack Developer @ [Verana](https://verana.io/)
 Currently building **open-source digital trust infrastructure** at **Verana** (Verifiable Credentials, DIDs, trust registries).  
 I design, develop, and operate key components of the **Verana Verifiable Trust Network**.
 
@@ -46,7 +46,7 @@ I design, develop, and operate key components of the **Verana Verifiable Trust N
 - 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Automated Twitter engagement
 - 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - AI-powered content automation with Todoist approval workflow
 - 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Outreach tool for the French Tech Bordeaux ecosystem
-- 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - Python ML project thats notes faced out of 10
+- 🤖 [face10ai](https://github.com/AirKyzzZ/face10ai) - Python ML project thats notes faces out of 10
 - 🧠 [KlyxAI](https://github.com/AirKyzzZ/KlyxAI) - AI solutions for Klyx agency
 - 🎵 [Deezer Legends](https://github.com/AirKyzzZ/deezer-legends) - Trading card game for deezer profiles
 - 🎮 [epsiwordle](https://github.com/AirKyzzZ/epsiwordle) - Wordle game (EPSI school edition)
