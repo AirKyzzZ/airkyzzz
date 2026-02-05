@@ -40,7 +40,7 @@ I design, develop, and operate key components of the **Verana Verifiable Trust N
 
 - 💼 [Klyx](https://klyx.fr/) - Web agency building modern web solutions
 - 🤖 [ClawFans](https://github.com/AirKyzzZ/clawfans) - OnlyFans for AI agents — The first subscription platform built for autonomous AI
-- 🔐 [My work on CREDO ts](https://github.com/AirKyzzZ/credo-ts) - Typescript framework for building decentralized identity and verifiable credential solutions
+- 🔐 [CREDO TS](https://github.com/AirKyzzZ/credo-ts) - Typescript framework for building decentralized identity and verifiable credential solutions
 - 🛡️ Shellsafe - *Coming soon* — Security-focused skills sharing for AI agents
 - 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Urban movement brand for parkour enthusiasts
 - 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Parkour Bassin d'Arcachon — One of the biggest parkour clubs in France
