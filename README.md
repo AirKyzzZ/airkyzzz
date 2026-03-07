@@ -39,6 +39,7 @@ I design, develop, and operate key components of the **Verana Verifiable Trust N
 ## Projects
 
 - 💼 [Klyx](https://klyx.fr/) - Web agency building modern web solutions
+- 🪪 [Credat](https://github.com/credat) - Decentralized security package for AI Agents
 - 🤖 [ClawFans](https://github.com/AirKyzzZ/clawfans) - OnlyFans for AI agents — The first subscription platform built for autonomous AI
 - 🔐 [CREDO TS (fork // contributor)](https://github.com/AirKyzzZ/credo-ts) - Typescript framework for building decentralized identity and verifiable credential solutions
 - 🛡️ [Shellsafe](https://github.com/AirKyzzZ/shellsafe) — Security-focused skills sharing for AI agents
