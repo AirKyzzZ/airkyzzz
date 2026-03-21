@@ -46,6 +46,7 @@ I design, develop, and operate key components of the **Verana Verifiable Trust N
 - 📖 [NullPost](https://github.com/AirKyzzZ/nullpost) — Private, encrypted and self-hosted micro-blogging platform
 - 🤸 [VertiFlow](https://github.com/AirKyzzZ/vertiflow) - Urban movement brand for parkour enthusiasts
 - 🏃 [PKBA](https://github.com/AirKyzzZ/PKBA) - Parkour Bassin d'Arcachon — One of the biggest parkour clubs in France
+- 🗺️ [EpsiGuessr](https://github.com/AirKyzzZ/epsiguessr) - Geogussr NPMZ mode directly on discord with multiplayer
 - 🐦 [Twitter Bot](https://github.com/AirKyzzZ/twitter-bot) - Automated Twitter engagement
 - 💼 [LinkedIn Bot](https://github.com/AirKyzzZ/linkedin-bot) - AI-powered content automation with Todoist approval workflow
 - 🇫🇷 [French Tech Sender](https://github.com/AirKyzzZ/french-tech-sender) - Outreach tool for the French Tech Bordeaux ecosystem
